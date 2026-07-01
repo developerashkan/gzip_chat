@@ -1,6 +1,6 @@
 # Gzip Language Model (Flutter Implementation)
 
-Thiproject explores the fascinating boundary between data compression and language modeling. It demonstrates that a classic compression algorithm can act as a probabilistic language model—without any neural networks, training, or learned weights.
+This project explores the fascinating boundary between data compression and language modeling. It demonstrates that a classic compression algorithm can act as a probabilistic language model—without any neural networks, training, or learned weights.
 
 Instead of looking at this system as a modern "AI", think of it as a **Pattern Extractor** that predicts text based purely on mathematical redundancy.
 
